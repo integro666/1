@@ -144,6 +144,7 @@ ip -c --br a
 
 vim /etc/net/sysctl.conf
 net.ipv4.ip_forward = 1
+нажать i потом :wq или qw
 
 systemctl restart network
 
